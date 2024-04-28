@@ -1,3 +1,6 @@
 data
 data/
 data/*
+modelF.pt
+modelF1.pt
+__pycache__/
